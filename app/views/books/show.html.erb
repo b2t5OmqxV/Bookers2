@@ -1,0 +1,48 @@
+<!-- <p>Find me in app/views/books/show.html.erb</p>-->
+<div class='body'>
+  <div class='container'>
+  <p id='notice'></p>
+    <div class='row'>
+    <div class='col-xs-3'>
+    <sidebar>
+      <%= render "temple/sidebar2", user:@user, book:@book, books:@books %>
+    </sidebar>
+    </div>
+    <div class='col-xs-9'>
+      <h2>Book detail</h2>
+      <table class='table'>
+      <tbody>
+        <tr>
+          <td>
+            <%= link_to user_path(@books.user) do %>
+            <%= attachment_image_tag @books.user, :profile_image, :fill, 40, 40, format: 'jpeg' , fallback: 'no_image.jpg',size:'40x40',class: 'img profile_image' %><br/>
+            <%= @books.user.name %>
+            <% end %>
+          </td>
+          <td>
+            <%= link_to book_path(id: @books.id) do %>
+            <%= @books.title %>
+          </td>
+          <td>
+            <%= @books.body %>
+            <% end %>
+          </td>
+            <% if @books.user == current_user  %>
+          <td>
+            <%= link_to 'Edit', edit_book_path(id: @books), class:'btn btn-success' %>
+          </td>
+          <td>
+          	<%= link_to 'Destroy',book_path(id: @books), method: :delete, 'data-confirm' => '本当に消しますか？',class: 'btn btn-danger' %>
+            <% end %>
+          </td>
+        </tr>
+      </tbody>
+      </table>
+    </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <%= render 'temple/footer' %>
+</footer>

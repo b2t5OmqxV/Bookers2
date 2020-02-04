@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"resour",
+				"resource"
+			],
+			[
+				"div",
+				"div\t<div>"
+			],
+			[
+				"books",
+				"books_path"
+			],
+			[
+				"su",
+				"successfully"
+			],
+			[
+				"thead",
+				"thead\t<thead>"
+			],
+			[
+				"title",
+				"Title"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"td",
+				"tbody\t<tbody>"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"di",
+				"div\t<div>"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"rig",
+				"right\tfloat"
+			],
+			[
+				"ri",
+				"right\tfloat"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"tit",
+				"title\t<title>"
+			],
+			[
+				"borde",
+				"border-left-width\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"border-",
+				"border-right-width\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-width\tproperty"
+			],
+			[
+				"WI",
+				"width\tproperty"
+			],
+			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"href\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Project: Save As"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/sessions/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/registrations/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/passwords/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/controllers/users_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/users/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/books/show.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/temple/_sidebar.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/books/edit.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/users/edit.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/mains/about.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/mains/top.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/registrations/new.html.erb *",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/sessions/new.html.erb *",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/shared/_links.html.erb *",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/controllers/application_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/controllers/books_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/assets/javascripts/application.js",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/assets/stylesheets/application.scss",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/initializers/inflections.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/Gemfile",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/assets/stylesheets/application.css",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/users/_error_messages.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/controllers/mains_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/spec/system/header_spec.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/books/_error_messages.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/layouts/application.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/routes.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/temple/_sidebar2.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/books/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/users/show.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/initializers/devise.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/models/user.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/shared/_links.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/models/book.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/initializers/application_controller_renderer.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/layouts/_notifications.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/temple/_sidebsr.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/temple/_footer.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/temple/_header.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/locales/en.yml",
+		"/Users/mbkartatu/Desktop/200123bookers2/config/routes.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/initializers/wrap_parameters.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/app/views/devise/shared/_error_messages.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/db/schema.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/db/migrate/20200121103516_devise_create_users.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/bookers2/config/top.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/Gemfile",
+		"/Users/mbkartatu/Desktop/Github ローカルからリモートへ　成功コマンド",
+		"/Users/mbkartatu/Desktop/work/vagrant/meshiterro_template/app/views/devise/registrations/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/config/environments/test.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/spec",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/books/edit.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/books/show.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/layouts/application.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/bin/yarn",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/layouts/_error_messages.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/assets/stylesheets/mains.scss",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/mains/top.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/controllers/books_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/books/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/db/schema.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/models/book.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/mailers/application_mailer.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/views/books/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/jobs/application_job.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/models/newbook.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/test/models/newbook_test.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/config/routes.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/db/migrate/20200115045545_create_newbooks.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/app/controllers/newbooks_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/Bookers/config/boot.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/config/routes.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/controllers/books_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/books/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/layouts/mailer.text.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/books/show.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/books/edit.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/mailers/application_mailer.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/mains/top.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/books/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/models/book.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/db/migrate/20200114054207_create_books.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/controllers/mains_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/views/main/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/KADAI2/app/controllers/main_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/CARAVAN/app/views/blogs/show.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/CARAVAN/app/views/blogs/edit.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/CARAVAN/app/views/blogs/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/CARAVAN/app/controllers/blogs_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/CARAVAN/app/views/blogs/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/CARAVAN/app/assets/stylesheets/application.css",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/controllers/todolists_controller.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/config/routes.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/db/migrate/20200111064539_create_lists.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/views/todolists/show.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/views/todolists/index.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/config/initializers/application_controller_renderer.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/db/migrate/20200112043907_addlmageld_to_lists.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/db/schema.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/views/todolists/edit.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/models/list.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/Gemfile",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/views/todolists/new.html.erb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/views/todolists/index.html.rb",
+		"/Users/mbkartatu/Desktop/work/vagrant/sample_app/app/views/homes/top.html.erb",
+		"/Users/mbkartatu/Desktop/fizz_buzz0.rb",
+		"/Users/mbkartatu/Desktop/fizz_buzz.rb",
+		"/Users/mbkartatu/Desktop/FB2.rb",
+		"/Users/mbkartatu/Desktop/FB4.rb",
+		"/Users/mbkartatu/Desktop/FB3.rb",
+		"/Users/mbkartatu/Desktop/FB1.rb",
+		"/Users/mbkartatu/Desktop/fuzz_buzz.rb",
+		"/fizz_buzz.rb",
+		"/Users/mbkartatu/Desktop/SS2/pr5.rb",
+		"/Users/mbkartatu/Desktop/pr8.rb",
+		"/Users/mbkartatu/Desktop/pr9.rb",
+		"/Users/mbkartatu/Desktop/pr10.rb",
+		"/Users/mbkartatu/Desktop/pr11.rb",
+		"/Users/mbkartatu/Desktop/pr12.rb",
+		"/Users/mbkartatu/Desktop/prm8-1.rb",
+		"/Users/mbkartatu/Desktop/prm8-2.rb",
+		"/Users/mbkartatu/Desktop/prm7-1.rb",
+		"/Users/mbkartatu/Desktop/lesson6.rb",
+		"/Users/mbkartatu/Desktop/pr7.rb",
+		"/Users/mbkartatu/Desktop/pr6.rb",
+		"/Users/mbkartatu/Desktop/pr5.rb",
+		"/Users/mbkartatu/Desktop/pr0.rb",
+		"/Users/mbkartatu/Desktop/pr4.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/SS/SS ensyu2-4/chapter4_answer/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

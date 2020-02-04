@@ -1,0 +1,44 @@
+<div class='body'>
+  <div class='conteiner'>
+    <p id='notice'></p>
+    <div clsaa='row'>
+      <div class='main-log in col-md-offset-1 col-md-6'>
+
+      <h2>Log in</h2>
+
+      <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+
+      <div class='field'>
+        <label for='user_name'>Name</label><br />
+        <input autofocus='true', class='name' type='text' name='user[name]' id="user_name" />
+      </div><br/>
+
+      <div class='field'>
+        <label for='user_password' >Password</label><br />
+        <input autocomplete='off' class='password' type='password' name='user[password]' id='user_password' />
+      </div><br/>
+
+      <% if devise_mapping.rememberable? %>
+      <div class='field'>
+        <input name='user[remember_me]' type='hidden' value='0' />
+        <input type='checkbox' value='1' name='user[remember_me]' id='user_remember_me' />
+        <label for='user_remember_me'>Remembar me</label>
+      </div><br/>
+      <% end %>
+
+      <div class='actions'>
+        <input type='submit' name='commit' value='Log in'class='btn btn-primary' date-disable-with='Log in' />
+      </div><br/>
+      <% end %>
+
+      <a class='sign_up' href='/users/sign_up'>Sign up</a><br/>
+
+      <a href='/users/password/new'>Forgot your password?</a><br/>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <%= render 'temple/footer' %>
+</footer>

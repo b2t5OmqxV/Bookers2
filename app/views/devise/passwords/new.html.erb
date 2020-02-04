@@ -1,0 +1,33 @@
+<div class='body'>
+  <div class='conteiner'>
+    <div class='main-forgot pw col-md-offset-1 col-md-6'>
+    <p id='notice'></p>
+
+
+      <%= form_for(resource, as: resource_name, url: password_path(resource_name), html: { method: :post }) do |f| %>
+      <div class='row'>
+      <h1><storng>Forgot your password?</storng></h1>
+      <%= render 'devise/shared/error_messages', resource: resource %>
+        <div class='field'>
+          <label for= 'user_email' >Email</label><br/>
+          <input autofocus='autofocus'type='email' value='' name='user[email]' id='user_email' />
+        </div>
+
+        <div class='actions'><br/>
+          <input type='submit' name='commit' value='Send me reset password instructions' class='btn btn-danger col-xs-4' data-disabl-with='Send me reset password instructions' />
+        </div>
+       </div><br/>
+       <% end %>
+
+       <div class="row">
+         <a class='sign_in' href='/users/sign_in'>Log in</a><br/>
+
+         <a class='sign_up' href='/users/sign_up'>Sign up</a><br/>
+       </div>
+     </div>
+   </div>
+</div>
+
+<footer>
+  <%= render 'temple/footer' %>
+</footer>

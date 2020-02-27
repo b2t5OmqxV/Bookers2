@@ -6,7 +6,6 @@ Rails.application.routes.draw do
 
   resources :mains
 
-
   devise_for :users
     resources :users
     resources :books
